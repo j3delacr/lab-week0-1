@@ -3,6 +3,7 @@
 #### Some photos of Golo :)
 ![beach](./beach.jpg)
 ![crossed](./crossed.jpg)
-![flash](./flash.jpg) - [ ] walked
-                      - [ ] fed
-                      - [ ] walked
+![flash](./flash.jpg) 
+- [X] walked
+- [X] fed
+- [ ] walked
