@@ -1,15 +1,14 @@
 # Javier De La Cruz Zuniga 
-> "im a slow learner, it's true. but i learn" - sansa stark	
 ###### B.S., Major in Computer Science, Minor in Sociology
+> "im a slow learner, it's true. but i learn" - sansa stark
 
 #### About Me:
-[Golosa](./golosa.md)
+I have a chihuahua named[Golosa](./golosa.md)
 
 
 #### Coding Languages:
         1. Java
         2. C/C++
-
 
 
 
