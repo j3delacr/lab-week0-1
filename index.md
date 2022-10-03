@@ -3,7 +3,7 @@
 > "im a slow learner, it's true. but i learn" - sansa stark
 
 #### About Me:
-I have a chihuahua named [Golosa](./golosa.md)
+I have a chihuahua named [Golosa](./golosa.md).
 
 
 #### Coding Languages:
