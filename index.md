@@ -1,4 +1,5 @@
-# Javier De La Cruz Zuniga <sub> > "im a slow learner, it's true. but i learn" - sansa stark </sub>	
+# Javier De La Cruz Zuniga <sub>
+        > "im a slow learner, it's true. but i learn" - sansa stark </sub>	
 ###### B.S., Major in Computer Science, Minor in Sociology
 
 #### About Me:
