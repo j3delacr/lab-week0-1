@@ -1,5 +1,5 @@
-#Javier De La Cruz Zuniga
-####### B.S., Major in Computer Science, Minor in Sociology
+# Javier De La Cruz Zuniga
+###### B.S., Major in Computer Science, Minor in Sociology
 
 ## Coding Languages:
         1. Java
