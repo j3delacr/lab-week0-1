@@ -3,6 +3,10 @@
 #### Some photos of Golo :)
 ![beach](./beach.jpg)
 ![crossed](./crossed.jpg)
-- [X] walked
-- [X] fed
-- [ ] walked <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png" alt="drawing" width="100"/>
+- [X] wake up
+- [X] eat
+- [X] walk
+- [X] nap
+- [X] eat
+- [X] walk
+- [ ] sleep <img src="./flash.jpg" alt="drawing" width="100"/>
