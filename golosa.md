@@ -5,4 +5,4 @@
 ![crossed](./crossed.jpg)
 - [X] walked
 - [X] fed
-- [ ] walked ![flash](./flash.jpg) 
+- [ ] walked <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png" alt="drawing" width="100"/>
