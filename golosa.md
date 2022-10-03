@@ -4,6 +4,6 @@
 ![beach](./beach.jpg)
 ![crossed](./crossed.jpg)
 ![flash](./flash.jpg) 
-- [X] walked
+                      - [X] walked
 - [X] fed
 - [ ] walked
