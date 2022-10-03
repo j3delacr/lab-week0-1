@@ -6,7 +6,7 @@
         2. C/C++
 
 #### About Me:
-[Golosa](/golosa.md)
+[Golosa](./golosa.md)
 
 
 
