@@ -7,8 +7,8 @@
 - [X] nap
 - [X] eat
 - [X] walk
-- [ ] sleep 
-#### Some photos of Golo :)
+- [ ] sleep  
+##### Some photos of Golo :)
 ![beach](./beach.jpg)
 ![crossed](./crossed.jpg)
 <img src="./flash.jpg" alt="drawing" width="1020"/>
